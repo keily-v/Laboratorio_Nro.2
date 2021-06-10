@@ -31,7 +31,7 @@
 
 2. **MARCO TEÓRICO (RESUMEN)**
 
-
+  <img src=" ">
 
   MATERIAL
   
@@ -39,13 +39,21 @@
   
   PROCEDIMIENTO
   
+  Implemente el circuito que se presenta en la figura 2.1.
+  
   <img src="circuito.PNG">
+  
+  Medición de cada una de las corrientes de malla.
+  
+  
+  
   
   
   
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS** 
 
+Tabala 3.1 Resultados obtenidos para el circuito de la figura 2.1.
 
 |MALLA  |  RESULTADOS ANALÍTICOS  |  RESULTADOS SIMULADOS |
 | ------------ | ------------ | ------------ |
