@@ -31,10 +31,16 @@
 
 2. **MARCO TEÓRICO (RESUMEN)**
 
-<img src="analisis_de_mallas.PNG">
+<img src="">
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS** 
 
+
+|MALLA  |  RESULTADOS ANALÍTICOS  |  RESULTADOS SIMULADOS |
+| ------------ | ------------ | ------------ |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 
 4. **VIDEO**
