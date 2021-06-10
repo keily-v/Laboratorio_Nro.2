@@ -12,7 +12,7 @@
  **Laboratorio Nro:**     2
  
 ------------
-## **TEMA:**  Leyes de Kirchoff
+## **TEMA:**  Análisis de Mallas
 ------------
 
  1. **OBJETIVOS**
