@@ -40,7 +40,7 @@
   
   - PROCEDIMIENTO
   
-  Implemente el circuito que se presenta en la figura 2.1.
+  2.1 Implemente el circuito que se presenta en la figura 2.1.
   
   <img src="circuito.PNG">
   
@@ -65,12 +65,12 @@
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS** 
 
-
+<img src=" ">
 
 
 4. **VIDEO**
 
-  [Análisi de Mallas ](  " Análisi de Mallas ")
+  [Análisi de Mallas ](   " Análisi de Mallas ")
   
   
 5. **CONCLUSIONES**
@@ -79,8 +79,9 @@
   - Se aplicó un sentido horaio de corriente para todas las mallas. 
 
 
-7. **VIDEO**
 
-8. **BIBLIOGRAFÍA**
+6. **BIBLIOGRAFÍA**
+   
+   
   
  
