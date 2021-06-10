@@ -15,8 +15,8 @@
 ## **TEMA:**  Leyes de Kirchoff
 ------------
 
- 2. **OBJETIVOS**
- ------------
+ 1. **OBJETIVOS**
+
 
 #### Objetivo General:
 
@@ -25,4 +25,27 @@
 #### Objetivos Específicos:
 
  - Calcular el valor de la corriente del circuito mediante el análisis de mallas. 
- - Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas. 
+ - Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
+ -  l
+
+
+2. **MARCO TEÓRICO (RESUMEN)**
+
+<img src="analisis_de_mallas.PNG">
+
+3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS** 
+
+
+
+4. **VIDEO**
+
+5. **CONCLUSIONES**
+
+  - En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. 
+  - Se aplicó un sentido horaio de corriente para todas las mallas. 
+
+
+
+
+
+7. **VIDEO**
