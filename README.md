@@ -31,7 +31,18 @@
 
 2. **MARCO TEÓRICO (RESUMEN)**
 
-<img src="">
+
+
+  MATERIAL
+  
+  <img src="material.PNG">
+  
+  PROCEDIMIENTO
+  
+  <img src="circuito.PNG">
+  
+  
+  
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS** 
 
