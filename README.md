@@ -91,9 +91,9 @@
 
 6. **BIBLIOGRAFÍA**
    
-   eduMedia. (2021). Leyes de kirchhoff. Obtenido de: https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff
+    eduMedia. (2021). Leyes de kirchhoff. Obtenido de: https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff
 
-  Ramirez, A. (2019). Leyes de kirchhoff. Obtenido de: https://d1wqtxts1xzle7.cloudfront.net/63362670/Leyes_de_Kirchhoff20200519-84014-3f6yxn-with-cover-page.pdf?        
+    Ramirez, A. (2019). Leyes de kirchhoff. Obtenido de: https://d1wqtxts1xzle7.cloudfront.net/63362670/Leyes_de_Kirchhoff20200519-84014-3f6yxn-with-cover-page.pdf?        
     
 
 
