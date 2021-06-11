@@ -72,6 +72,14 @@
       |MALLA 3  (4.0 x 10^-4 A) |  % de Error  |
       | ------------ | ------------ |
       |  R4= 5.19 V ; R5= 191.1 mV | R4= 0% ; R5= -0.58%   |
+      
+      Tabala 3.6 Porcentaje de Error.
+      
+      |MALLA  |  RESULTADOS ANALÍTICOS |RESULTADOS SIMULADOS | %de error|
+      | ------------ | ------------ |------------ |------------ |
+      |  1 | 11.5 mA  |   11.5 mA   |   0%   |
+      |  2 | 2.85 mA   |   2.85 mA  |    0% |
+      |  3 | 4.9 x 10^-4 A |  4.8 x 10^-4 A |  0.4%   |
      
       
 
