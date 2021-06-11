@@ -50,7 +50,7 @@
 
       3.2 Medición de cada una de las corrientes de las malla.
 
-      <img src=" ">
+      <img src="Capturas/procedimiento.png">
       
       
      
@@ -65,17 +65,17 @@
 
       |MALLA  |  RESULTADOS ANALÍTICOS  |  RESULTADOS SIMULADOS |
       | ------------ | ------------ | ------------ |
-      |   |   |   |
-      |   |   |   |
-      |   |   |   |
+      | 1 | 11.45 mA |   |
+      | 2 | 2.85 mA  |   |
+      | 3 | 4.0 x 10^-4 |   |
       
       Tabala 3.5 Porcentaje de Error.
       
       |MALLA  |    |
       | ------------ | ------------ |
-      |   |   |
-      |   |   |
-      |   |   |
+      |  1 |   |
+      |  2 |   |
+      |  3 |   |
       
 
 
