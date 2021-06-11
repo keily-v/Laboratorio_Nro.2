@@ -50,32 +50,29 @@
 
       3.2 Medición de cada una de las corrientes de las malla.
 
-      <img src="Capturas/procedimiento.png">
+      <img src="Capturas/PROOO.png">
       
-      
-     
-
+ 
       3.3 Uso del simulador Tinkercad para el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
       
       
-      <img src=" ">
+      <img src="Capturas/corriente_.jpeg ">
 
 
       Tabala 3.4 Resultados obtenidos para el circuito de la figura 2.1.
 
       |MALLA  |  RESULTADOS ANALÍTICOS  |  RESULTADOS SIMULADOS |
       | ------------ | ------------ | ------------ |
-      | 1 | 11.45 mA |   |
-      | 2 | 2.85 mA  |   |
-      | 3 | 4.0 x 10^-4 |   |
+      | 1 (11.5 mA) | R1=9.39 V  ; R2= 8.6 V| R1=9.39 V ; R2= 8.61 V  |
+      | 2 ( 2.85 mA ) | R2=8.6 V  ; R3= 3.42 V ; R4= 5.19 V | R2=8.61 V ; R3= 3.42 V ; R4= 5.19 V |
+      | 3 (4.0 x 10^-4 A) |  R4= 5.19 V  ; R5= 191.1 mV | R4= 5.19 V ;  R5= 190 mV  |
       
       Tabala 3.5 Porcentaje de Error.
       
-      |MALLA  |    |
+      |MALLA 3  (4.0 x 10^-4 A) |  % de Error  |
       | ------------ | ------------ |
-      |  1 |   |
-      |  2 |   |
-      |  3 |   |
+      |  R4= 5.19 V ; R5= 191.1 mV | R4= 0% ; R5= -0.58%   |
+     
       
 
 
