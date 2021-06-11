@@ -26,7 +26,7 @@
 
      - Calcular el valor de la corriente del circuito mediante el análisis de mallas. 
      - Aplicar un sentido de corriente arbitrario (horario o antihorario) para todas las mallas.
-     - 
+     - Comprender la importancia que tiene el análisis de mallas al analizar circuitos electrónicos para realizar cálculos de una manera más fácil y organizadA.
 
 
 2. **MARCO TEÓRICO (RESUMEN)**
@@ -83,6 +83,7 @@
   
 5. **CONCLUSIONES**
 
+      -A la hora de realizar los respectivos cálculos en la práctica de laboratorio se evidencio que con el análisis de mallas se puede ir calculando el circuito en varias   partes y lograrlo resolver de una manera más fácil
       - En esta práctica de laboratorio se calculó el valor de la corriente del circuito mediante LVK. 
       - Se aplicó un sentido horaio de corriente para todas las mallas. 
 
